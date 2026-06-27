@@ -124,7 +124,7 @@ const PremiumPortfolio = () => {
       title: "E-Commerce Platform",
       description: "Modern e-commerce platform with seamless user experience",
       category: "Web Development",
-      image: "./../public/img/project 1.png",
+      image: "./../public/img/project-1.png",
       link: "https://myntra-clone-kappa-red.vercel.app",
       tech: ["React", "Node.js", "Tailwind CSS"],
     },
@@ -133,7 +133,7 @@ const PremiumPortfolio = () => {
       title: "Resturant Website",
       description: "Analytics dashboard with modern UI/UX design",
       category: "UI/UX Design",
-      image: "./../public/img/project 2.png",
+      image: "./../public/img/project-2.png",
       link: "https://www.behance.net/gallery/251817963/food-web-(UI-Design))",
       tech: ["Figma", "Design System", ],
     },
@@ -142,7 +142,7 @@ const PremiumPortfolio = () => {
       title: "Sales & Analytics Website",
       description: "Professional WordPress corporate website",
       category: "WordPress",
-      image: "./../public/img/project 3.png",
+      image: "./../public/img/project-3.png",
       link: "https://sales-analytics-website.vercel.app/",
       tech: ["WordPress", "Custom Theme", "SEO Optimization"],
     },
@@ -151,7 +151,7 @@ const PremiumPortfolio = () => {
       title: "School Website",
       description: "Interactive agency website with smooth animations",
       category: "Web Development",
-      image: "./../public/img/project 4.png",
+      image: "./../public/img/project-4.png",
       link: "https://emptus-school-web.vercel.app/",
       tech: ["React", "Framer Motion", "Tailwind CSS"],
     },
@@ -160,7 +160,7 @@ const PremiumPortfolio = () => {
       title: "GYM Website",
       description: "End-to-end mobile application UI design",
       category: "UI/UX Design",
-      image: "./../public/img/project 5.png",
+      image: "./../public/img/project-5.png",
       link: "https://www.behance.net/gallery/251817355/GYM-web-(UI-design)",
       tech: ["Figma", "Mobile Design", "User Testing"],
     },
@@ -169,7 +169,7 @@ const PremiumPortfolio = () => {
       title: "Home Interior Website",
       description: "E-learning WordPress platform with course management",
       category: "UI/UX Design",
-      image: "./../public/img/project 6.png",
+      image: "./../public/img/project-6.png",
       link: "https://www.behance.net/gallery/251818283/Interior-web-(UI-design)",
       tech: ["Figma", "Mobile Design", "User Testing"],
     },
@@ -413,7 +413,7 @@ const PremiumPortfolio = () => {
               className="relative h-96"
             >
               <img
-                src="./public/img/My Pic 2.png"
+                src="./public/img/My-Pic-2.png"
                 alt=""
                 className="absolute inset-0 bg-gradient-to-br from-[#C6FF00]/20 to-transparent rounded-2xl backdrop-blur-sm border border-[#D4D4D4]/20 flex items-center justify-center"
               />
