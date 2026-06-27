@@ -413,7 +413,7 @@ const PremiumPortfolio = () => {
               className="relative h-96"
             >
               <img
-                src="/img/my-pic-2.png"
+                src="/img/my-pic.png"
                 alt=""
                 className="absolute inset-0 bg-gradient-to-br from-[#C6FF00]/20 to-transparent rounded-2xl backdrop-blur-sm border border-[#D4D4D4]/20 flex items-center justify-center"
               />
